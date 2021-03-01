@@ -1,0 +1,4 @@
+Hi world! :D
+:wq!
+
+Hello CMSC 100 ! 
